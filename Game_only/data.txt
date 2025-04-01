@@ -1,0 +1,33 @@
+Data_Storage:
+First_Number: 34725, Final Number: 463, Turns: 3, Score: 3, Bank: 1, Final Score: 4, Winner: AI
+First_Number: 47970, Final Number: 533, Turns: 4, Score: 2, Bank: 2, Final Score: 0, Winner: AI, Number of Node Visited
+First_Number: 43940, Final Number: 2197, Turns: 2, Score: 2, Bank: 1, Final Score: 1, Winner: Human, Number of Node Visited: 2
+
+
+First_Number: 43530, Final Number: 1451, Turns: 3, Score: 3, Bank: 1, Final Score: 4, Winner: AI, Number of Node Visited: 5, Average Time:0,3*10-3
+First_Number: 33516, Final Number: 931, Turns: 4, Score: 2, Bank: 0, Final Score: 2, Winner: AI, Number of Node Visited: 11, Average Time:0,0775*10-3
+First_Number: 43284, Final Number: 3607, Turns: 2, Score: 0, Bank: 0, Final Score: 0, Winner: AI, Number of Node Visited: 4, Average Time:0,096*10-3
+First_Number: 34576, Final Number: 2161, Turns: 4, Score: -2, Bank: 0, Final Score: -2, Winner: AI, Number of Node Visited: 9, Average Time:0,0485*10-3
+First_Number: 47380, Final Number: 2369, Turns: 3, Score: -1, Bank: 1, Final Score: 0, Winner: AI, Number of Node Visited: 5, Average Time:0,032*10-3
+
+
+First_Number: 43000, Final Number: 43, Turns: 6, Score: -4, Bank: 4, Final Score: -8, Winner: AI, Number of Node Visited: 74, Average Time:0,1905*10-3
+First_Number: 45000, Final Number: 1, Turns: 9, Score: 1, Bank: 8, Final Score: 9, Winner: AI, Number of Node Visited: 6783, Average Time:2.53*10-3
+First_Number: 30030, Final Number: 1001, Turns: 3, Score: -1, Bank: 0, Final Score: -1, Winner: AI, Number of Node Visited: 18, Average Time: 0.038*10-3
+First_Number: 31568, Final Number: 1973, Turns: 3, Score: -1, Bank: 0, Final Score: -1, Winner: AI, Number of Node Visited: 14, Average Time: 0.0255*10-3
+First_Number: 33444, Final Number: 929, Turns: 3, Score: 3, Bank: 0, Final Score: 3, Winner: AI, Number of Node Visited: 27, Average Time: 0.083*10-3
+
+
+First_Number: 49992, Final Number: 2083, Turns: 4, Score: -2, Bank: 0, Final Score: -2, Winner: AI, Number of Node Visited: 9, Average Time: 0.033*10-3
+First_Number: 44640, Final Number: 31, Turns: 7, Score: -5, Bank: 3, Final Score: -2, Winner: AI, Number of Node Visited: 363, Average Time: 0.301*10-3
+First_Number: 35490, Final Number: 1183, Turns: 3, Score: -1, Bank: 1, Final Score: 0, Winner: AI, Number of Node Visited: 5, Average Time: 0.077*10-3
+First_Number: 39339, Final Number: 1457, Turns: 3, Score: 3, Bank: 0, Final Score: 3, Winner: Human, Number of Node Visited: 3, Average Time: 0.033*10-3
+First_Number: 47616, Final Number: 31, Turns: 8, Score: -6, Bank: 0, Final Score: -6, Winner: AI, Number of Node Visited: 290, Average Time: 0.2145*10-3
+
+
+First_Number: 40744, Final Number: 5093, Turns: 2, Score: 0, Bank: 0, Final Score: 0, Winner: Human, Number of Node Visited: 7, Average Time: 0.057*10-3
+First_Number: 38608, Final Number: 2413, Turns: 3, Score: -1, Bank: 0, Final Score: -1, Winner: AI, Number of Node Visited: 15, Average Time: 0.044*10-3
+First_Number: 31120, Final Number: 389, Turns: 4, Score: -2, Bank: 1, Final Score: -3, Winner: AI, Number of Node Visited: 43, Average Time: 0.066*10-3
+First_Number: 43060, Final Number: 2153, Turns: 2, Score: 2, Bank: 1, Final Score: 1, Winner: AI, Number of Node Visited: 11, Average Time: 0.050*10-3
+First_Number: 39520, Final Number: 247, Turns: 4, Score: -2, Bank: 1, Final Score: -3, Winner: AI, Number of Node Visited: 78, Average Time: 0.27*10-3
+First_Number: 40536, Final Number: 563, Turns: 4, Score: -2, Bank: 0, Final Score: -2, Winner: AI, Number of Node Visited: 27
