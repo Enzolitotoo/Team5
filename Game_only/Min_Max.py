@@ -76,3 +76,5 @@ class Tree:
         for child in self.children:
             node_count += child.count_node(level + 1, i + 1)  # Recursively count nodes
         return node_count
+
+# Code Made By Enzo Kerebel
